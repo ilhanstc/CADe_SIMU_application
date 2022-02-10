@@ -15,13 +15,8 @@ symbol&DB 1 (Block)&&&
 symbol&F 10.0&&&
 symbol&F 100.0&&&
 symbol&FB 0 (Block)&&&
-symbol&FW 0&&&
 symbol&I 0.0&&&
-symbol&I 0.1&&&
-symbol&I 0.2&&&
 symbol&Q 0.0&&&
-symbol&Q 0.1&&&
-symbol&Q 0.2&&&
-status&Default&D1.W0&&UInteger&&&&
-status&Default&&Zaman&&&&&
+status&Default&D1.W0&Gün&UInteger&&&&
+status&Default&&&&&&&
 hardware&CPU ZERO (SC-03210-00);0;100;False;False;;True;False;False;0;3;0;1;True;115200;None;1;8;True;115200;None;1;8;0;0;True;True;True;80;30;502;10;False;192;168;0;10;000000000000;255;255;255;0;192;168;0;1;192;168;0;1;0;0;0;0;SPEED_PLC;123;SPEED_PLC;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;1;1;1;1;1;1;1;10;10;10;10;10;10;10;10;1;1;100;16;100;4;0;8000;3;True;True&&&&&&&&&&&&&&&&
