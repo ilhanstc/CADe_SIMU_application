@@ -1,0 +1,7 @@
+Start butonona (NO);
+   Birinci basışımızda Q0.0 (Y0) 'daki led yansın
+   İkinci basışımızda Q0.1  (Y1)'deki led yansın
+   Üçüncü basışımızda Q0.2  (Y2)'deki led yansın
+   Dördüncü basışımızda Q0.3  (Y3)'deki led yansın
+   Beşinci basışımızda program kendini resetlesin.
+Gerekl PLC programını yazınız. 
