@@ -1,0 +1,2 @@
+X0 adresindeki buton 1 (NO)'e basılınca Y0 adresindeki Led yansın
+X1 adresindeki buton 2 (NO)'ye basılınca Y0 adresindeki Led sönük kalsın
