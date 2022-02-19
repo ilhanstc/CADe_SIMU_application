@@ -1,0 +1,14 @@
+Start Butonona (NO) (X1)
+
+1. kez bastıgımızda 1. motor çalışsın ve 1. motorun çalışıgına dair led yansın
+2. kez bastıgımızda 1. motor ile birlikte 2. motor çalışsın ve 1. ile 2. Led yansın
+3. kez bastıgımızda 1., 2.ve 3. motor çalışsın ve 1., 2. ve3.led yansın
+4. kez bastıgımızda program kendni resetlesin
+Stop butonuna (NC) (X0) bastıgımızda program kapansın.
+
+1. motor(y0)
+2. motor(y1)
+3. motor(y2)
+1. led(y4)
+2. led(y5)
+3. led(y6)
